@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente sou backend no Venturus, minha stack atual é Java com Spring<br>👯 Gostaria de colaborar em projetos Open Source em Java e JavaScript<br>🌱 Estou aprendendo mais sobre HTML5, CSS3 e JavaScript<br>💬 Talvez eu possa ajudar com Java e JavaScript
+🔭 Desenvolvedor backend no Serpro, minha stack atual é Java com Spring<br>👯 Gostaria de colaborar em projetos Open Source em Java e JavaScript<br>🌱 Estou aprendendo mais sobre HTML5, CSS3 e JavaScript<br>💬 Talvez eu possa ajudar com Java e JavaScript
 
 
 ## 🌐 Socials:
